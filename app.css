@@ -39,7 +39,7 @@ body{
 
 #previewImage{
     height: 250px;
-    background: url("/images/image-product-mobile.jpg");
+    background: url("images/image-product-mobile.jpg");
     background-size: cover;
     width: 100%;
 }
@@ -113,7 +113,7 @@ body{
     }
 
     #previewImage{
-        background-image: url("/images/image-product-desktop.jpg");    
+        background-image: url("images/image-product-desktop.jpg");    
         background-position: cover;
         height: 410px;
         min-width: 260px;
