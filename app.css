@@ -40,9 +40,7 @@ body{
 #previewImage{
     height: 250px;
     background: url("/images/image-product-mobile.jpg");
-    background-position: cover;
     background-size: cover;
-    background-repeat: no-repeat;
     width: 100%;
 }
 
@@ -98,15 +96,8 @@ body{
     color: white;
 }
 .addToCart:hover{
-    background-color: hsl(158, 51%, 22%);
-    box-shadow: 3px 0 5px hsl(158, 36%, 37%);
-    transform: translateY(-4px);
-}
-.addToCart:focus{
-    background-color: rgb(144, 184, 169);
-    box-shadow: none;
-    transform: translateY(0px);
-
+    background-color: hsl(158, 33%, 16%);
+    transition: background-color 0.3s;
 }
 
 #cartIcon{
