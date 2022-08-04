@@ -97,6 +97,18 @@ body{
     width:  100%;
     color: white;
 }
+.addToCart:hover{
+    background-color: hsl(158, 51%, 22%);
+    box-shadow: 3px 0 5px hsl(158, 36%, 37%);
+    transform: translateY(-4px);
+}
+.addToCart:focus{
+    background-color: rgb(144, 184, 169);
+    box-shadow: none;
+    transform: translateY(0px);
+
+}
+
 #cartIcon{
     margin: 0 10px;
 }
