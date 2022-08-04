@@ -27,7 +27,6 @@ body{
 
 #panelContainer{  
     flex-direction: column;
-    width: 100%;
     margin: 0;
     padding: 0;
     max-width: 540px;
@@ -39,7 +38,9 @@ body{
 }
 
 #previewImage{
+    height: 250px;
     background: url("/images/image-product-mobile.jpg");
+    background-position: cover;
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
@@ -48,7 +49,7 @@ body{
 
 /* text */
 .panelText{
-    margin: 10px 20px;
+    margin: 10px 25px;
 }
 
 #productCategory{
@@ -60,6 +61,7 @@ body{
     color: hsl(212, 21%, 14%);
     font-family: Fraunces;
     margin: 10px 0;
+    font-weight: bolder;
     
 }
 .subText{
@@ -88,7 +90,7 @@ body{
 
 /* button */
 .addToCart{
-    padding: 1rem;
+    padding: 12px;
     border-radius: 10px;
     border: none;
     background-color: hsl(158, 36%, 37%);
@@ -105,11 +107,13 @@ body{
 @media(min-width: 820px){
     #panelContainer{
         flex-direction: row;
-        max-width: 800px;
     }
-    #previewImage{
-        background-image: url("images/image-product-desktop.jpg");
 
+    #previewImage{
+        background-image: url("/images/image-product-desktop.jpg");    
+        background-position: cover;
+        height: 410px;
+        min-width: 260px;
     }
 
 
