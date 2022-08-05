@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/mbilal-x/frontendmaster__P1_product-preview-card-component-main)
-- Live Site URL: [frontendmaster__P1_product-preview-card-component-main](https://mbilal-x.github.io/frontendmaster__P1_product-preview-card-component-main/)
+- Solution URL: [solution](https://github.com/mbilal-x/frontendmaster__P1_product-preview-card-component-main)
+- Live Site URL: [live site](https://mbilal-x.github.io/frontendmaster__P1_product-preview-card-component-main/)
 
 ## My process
 
