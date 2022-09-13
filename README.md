@@ -37,7 +37,7 @@ Users should be able to:
 
 ## My process
 
-The idea was to use only flexbox, to get better grip at it.
+The idea was to use only flexbox, to get better grasp of it.
 I started out by making the mobile layout first.
 I had the image uploaded in img tag, Which i had to change to to make image responsive later.
 I then struggled with making the Image responsive, that is what took the most time.
@@ -55,8 +55,7 @@ The rest is just adding hover and focus states, and adjusting sizes.
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
+My first time making image responsive, adding background image to a div. It took a few days to get this part of the code to work right.
 
 ```css
 .proud-of-this-css {
@@ -64,8 +63,7 @@ Use this section to recap over some of your major learnings while working throug
         background-position: cover;
         height: 410px;
         min-width: 260px;
-        /* my first time making image responsive, adding background image to a div.
-         It took a few days to get this part of the code to work right. */
+        
 }
 ```
 
