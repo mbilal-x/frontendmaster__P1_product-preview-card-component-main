@@ -73,6 +73,5 @@ I want to work on some more projects to find more stuff I can improve my underst
 
 ## Author
 
-- Website - [Muhammad Bilal]
 - Frontend Mentor - [@mbilal-x](https://www.frontendmentor.io/profile/mbilal-x)
 
